@@ -1,4 +1,4 @@
-# Simple-UI-Esp32-SPIFFS
+# Simple UI Esp32 SPIFFS
 
 Simple-UI-Esp32-SPIFFS is a minimal UI based on python script to run esptool.exe and mkspiffs.exe for uploading an ini file or a selected file into ESP32 platforms.
 
