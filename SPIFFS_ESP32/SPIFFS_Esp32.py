@@ -133,7 +133,7 @@ if __name__ == '__main__':
 
     # init windows
     window = Tk()
-    window.iconbitmap('./simplixio_logo_icon_smallsq.ico')
+    window.iconbitmap('./logo.ico')
     window.title("simplixio ESP32 SPIFFS Tool v.0.4.0")
     window.geometry('450x100')
 
